@@ -1,0 +1,17 @@
+input{
+  height: 50px;
+  width: 50px;
+  color: darkblue;
+}
+body{
+  font-family: fantasy;
+  background-color: darkblue;
+}
+p{
+  color: White;
+  font-family: fantasy;
+}
+h1{
+  color: white;
+  font-size: 50px;
+}
